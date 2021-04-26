@@ -55,6 +55,9 @@
   align-items: center;
   justify-content: center;
 }
+.noExpense {
+  color: white;
+}
 
 .expense-date__month {
   font-size: 0.75rem;
